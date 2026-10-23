@@ -29,16 +29,26 @@ Our work favors:
 
 ---
 
-## Selected work
+## Open source
 
 | Project | What it is |
 | --- | --- |
-| **[Rote](https://github.com/Fixer-Labs/Rote)** | A modern interface and experience layer for Anki, designed around clearer studying, truthful scheduling information, accessibility, and responsive workflows. |
-| **[LexiSearch](https://github.com/Fixer-Labs/LexiSearch)** | Fast local search for Anki with exact, phrase, prefix, fuzzy, field, deck, tag, and note-type search. |
-| **[AddonPort](https://github.com/Fixer-Labs/AddonPort)** | Portable Anki environment backup, migration, inspection, selective restore, and device-to-device setup transfer. |
-| **[FixerDrop](https://github.com/Fixer-Labs/FixerDrop)** | Cross-platform local transfer technology for moving files and product data between FixerLabs experiences. |
-| **[Spellwise](https://github.com/Fixer-Labs/Spellwise)** | Focused spell-checking tooling for Anki workflows, designed for fast review and dependable local use. |
-| **[Dev Preflight](https://github.com/Fixer-Labs/Dev-Preflight)** | Local development validation and release-readiness tooling for catching issues before software ships. |
+| **[AVTR-1 Multi-Platform Edition](https://github.com/Fixer-Labs/avtr-1-multiplatform)** | Runs the AVTR-1 lip-synced talking-head avatar on AMD (DirectML, ROCm), Apple Silicon (Metal) and NVIDIA GPUs without TensorRT. Exact graph rewrites and verified fp16 make it 2.5× faster on integrated GPUs with output matching the fp32 reference. An unofficial community port of [avaturn-live/avtr-1](https://github.com/avaturn-live/avtr-1). |
+
+---
+
+## Selected work
+
+<sub>In private development. Public releases will be linked here.</sub>
+
+| Project | What it is |
+| --- | --- |
+| **Rote** | A modern interface and experience layer for Anki, designed around clearer studying, truthful scheduling information, accessibility, and responsive workflows. |
+| **LexiSearch** | Fast local search for Anki with exact, phrase, prefix, fuzzy, field, deck, tag, and note-type search. |
+| **AddonPort** | Portable Anki environment backup, migration, inspection, selective restore, and device-to-device setup transfer. |
+| **FixerDrop** | Cross-platform local transfer technology for moving files and product data between FixerLabs experiences. |
+| **Spellwise** | Focused spell-checking tooling for Anki workflows, designed for fast review and dependable local use. |
+| **Dev Preflight** | Local development validation and release-readiness tooling for catching issues before software ships. |
 
 ---
 
@@ -52,19 +62,19 @@ Alongside the larger products, FixerLabs develops smaller utilities and engineer
 
 ### Learning & Anki
 
-- **[Contextual Lookup](https://github.com/Fixer-Labs/Contextual-Lookup)** — offline contextual dictionary and lookup tooling
-- **[FocusDock](https://github.com/Fixer-Labs/FocusDock)** — focused Pomodoro and study-session workflow
-- **[CardPace](https://github.com/Fixer-Labs/CardPace)** — card-study workflow experiment
-- **[CardPulse](https://github.com/Fixer-Labs/CardPulse)** — card-review workflow experiment
+- **Contextual Lookup** — offline contextual dictionary and lookup tooling
+- **FocusDock** — focused Pomodoro and study-session workflow
+- **CardPace** — card-study workflow experiment
+- **CardPulse** — card-review workflow experiment
 
 </td>
 <td width="50%" valign="top">
 
 ### Development & platform
 
-- **[Anki DevKit](https://github.com/Fixer-Labs/Anki-DevKit)** — shared compatibility and development infrastructure
-- **[Fixer Mobile Runtime](https://github.com/Fixer-Labs/fixer-mobile-runtime)** — mobile runtime experimentation
-- **[XR Dev Monitor](https://github.com/Fixer-Labs/XR-Dev-Monitor)** — XR development and monitoring tooling
+- **Anki DevKit** — shared compatibility and development infrastructure
+- **Fixer Mobile Runtime** — mobile runtime experimentation
+- **XR Dev Monitor** — XR development and monitoring tooling
 
 </td>
 </tr>
@@ -101,33 +111,6 @@ FixerLabs is expanding from individual software projects toward a connected tech
 **software** · **developer tooling** · **education technology** · **local transfer** · **mobile** · **XR** · **future hardware**
 
 The parent identity stays deliberately simple: black, white, precise, and product-neutral. Individual products can develop their own visual language without losing the connection back to FixerLabs.
-
----
-
-<details>
-<summary><strong>Repository index</strong></summary>
-
-<br>
-
-| Repository | Area |
-| --- | --- |
-| [Knowtes](https://github.com/Fixer-Labs/Knowtes) | Learning |
-| [Clinaptic-OMM](https://github.com/Fixer-Labs/Clinaptic-OMM) | Medical education |
-| [XR-Dev-Monitor](https://github.com/Fixer-Labs/XR-Dev-Monitor) | XR / development |
-| [Dev-Preflight](https://github.com/Fixer-Labs/Dev-Preflight) | Developer tooling |
-| [CardPace](https://github.com/Fixer-Labs/CardPace) | Anki / learning |
-| [fixer-mobile-runtime](https://github.com/Fixer-Labs/fixer-mobile-runtime) | Mobile platform |
-| [AddonPort](https://github.com/Fixer-Labs/AddonPort) | Portability |
-| [FixerDrop](https://github.com/Fixer-Labs/FixerDrop) | Local transfer |
-| [CardPulse](https://github.com/Fixer-Labs/CardPulse) | Anki / learning |
-| [FocusDock](https://github.com/Fixer-Labs/FocusDock) | Productivity |
-| [Spellwise](https://github.com/Fixer-Labs/Spellwise) | Writing / Anki |
-| [Contextual-Lookup](https://github.com/Fixer-Labs/Contextual-Lookup) | Lookup / Anki |
-| [Anki-DevKit](https://github.com/Fixer-Labs/Anki-DevKit) | Developer infrastructure |
-| [Rote](https://github.com/Fixer-Labs/Rote) | Anki experience |
-| [LexiSearch](https://github.com/Fixer-Labs/LexiSearch) | Search / Anki |
-
-</details>
 
 ---
 
